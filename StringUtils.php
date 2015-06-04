@@ -24,9 +24,8 @@ use BackBee\Utils\Exception\InvalidArgumentException;
 /**
  * @author      c.rouillon <charles.rouillon@lp-digital.fr>
  * @author      Mickaël Andrieu <mickael.andrieu@lp-digital.fr>
- * @deprecated 2.0 This class definition is not compatible with PHP >= 7.0
  */
-class String
+class StringUtils
 {
     /**
      * Return a mixed array of options according the defaults values provided
